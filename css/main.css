@@ -70,40 +70,58 @@
 }
 .item-ajax,
 .item-json,
-.item-svg{
-	width: 4rem;
-	height: 4rem;
-	line-height: 4rem;
+.item-svg,
+.item-canvas,
+.item-less,
+.item-sass{
+	width: 3.5rem;
+	height: 3.5rem;
+	line-height: 3.5rem;
 }
 .item-html{
-	top: 3rem;
-	right: 3rem;
+	top: 8rem;
+	right: 11rem;
 	border-color: #2E8FCF;
 }
 .item-css{
-	top: 14rem;
-	right: 5rem;
+	top: 3rem;
+	right: 6rem;
 	border-color: #0995A7;
 }
 .item-javascript{
-	top: 3rem;
-	right: 11rem;
+	top: 13rem;
+	right: 16rem;
 	border-color: #1b97b3;
 }
 .item-jquery{
-	top: 7rem;
-	right: 15rem;
+	top: 17rem;
+	right: 12rem;
 	border-color: #439896;
 }
 .item-ajax{
-	top: 12rem;
-	right: 13rem;
+	top: 21.5rem;
+	right: 9.8rem;
 	border-color: #439896;
 }
 .item-svg{
-	top: 8rem;
-	right: 6rem;
+	top: 13.2rem;
+	right: 11rem;
 	border-color: #439896;
+}
+.item-canvas{
+    top: 10.5rem;
+    right: 8.5rem;
+    border-color: #439896;
+}
+.item-less{
+    top: 5.5rem;
+    right: 3.2rem;
+    border-color: #439896;
+}
+.item-sass{
+    top: 3rem;
+    right: 3.2rem;
+    border-color: #439896;
 }
 .item-echarts{
 	width: 10rem;
